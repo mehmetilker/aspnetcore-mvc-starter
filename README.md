@@ -13,6 +13,7 @@ Solution template aims providing better approach insteading of standart template
 Standart template creates confusion on the using of;
   -Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
   -Data Context
+  -Tight coupled models (dependency on Identity Entities)
   -Dependecy Injection : Gives examples only on Message service.
   -Single resposibility (Especially on controller usage)
   -Testing
