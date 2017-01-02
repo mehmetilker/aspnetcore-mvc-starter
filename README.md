@@ -11,6 +11,7 @@ Standart Visual Studio Mvc project template creates confusion especially on the 
 Solution template aims providing better approach insteading of standart template while making easy understanding and comprehension of developing loosyl coupled solution.
 
 Standart template creates confusion on the using of;
--Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
--Data Context
--Dependecy Injection : Gives examples only on Message service.
+  -Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
+  -Data Context
+  -Dependecy Injection : Gives examples only on Message service.
+  -Testing
