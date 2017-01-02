@@ -6,7 +6,7 @@ Still in development. Further explanations will be provided after some technical
 
 
 
-Standart Visual Studio Mvc project template creates confusion on the subjects "Dependency Injection" and Model.
+Standart Visual Studio Mvc project template creates confusion especially on the subjects "Dependency Injection" and Model.
 
 Solution template aims providing better approach insteading of standart template while making easy understanding and comprehension of developing loosyl coupled solution.
 
