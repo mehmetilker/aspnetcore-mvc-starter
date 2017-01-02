@@ -8,9 +8,11 @@ Still in development. Further explanations will be provided after some technical
 
 Standart Visual Studio Mvc project template creates confusion especially on the subjects "Dependency Injection" and Model.
 
-Solution template aims providing better approach / how it could be insteading of how it should be, while making easy understanding and comprehension of developing loosyl coupled solution.
+Solution template aims providing better approach / how it could be rather than how it should be, while making easy understanding and comprehension of developing loosly coupled solution.
 
 Standart template creates confusion on the using of;
+
+
   -Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
   -Data Context
   -Tight coupled models (dependency on Identity Entities)
