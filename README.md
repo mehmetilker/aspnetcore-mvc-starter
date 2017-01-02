@@ -14,4 +14,5 @@ Standart template creates confusion on the using of;
   -Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
   -Data Context
   -Dependecy Injection : Gives examples only on Message service.
+  -Single resposibility (Especially on controller usage)
   -Testing
