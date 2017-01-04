@@ -17,3 +17,7 @@ http://www.strathweb.com/2015/04/asp-net-mvc-6-discovers-controllers/
 
 View folders
 https://msdn.microsoft.com/en-us/magazine/mt763233.aspx?f=255&MSPPError=-2147217396
+
+Testing
+http://www.jerriepelser.com/blog/unit-testing-controllers-aspnet5/
+Example on how to mock User indentity.
