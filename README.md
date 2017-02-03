@@ -21,5 +21,10 @@ Solution template aims providing better approach / how it could be rather than h
   *Single resposibility (Especially on controller usage)<br>
   *Testing<br>
 
+###How to extend;
 
+*Unit testing<br>
+*Integration testing
+*Api for mobile app integratino
+*Identity for Api
 
