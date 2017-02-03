@@ -24,7 +24,7 @@ Solution template aims providing better approach / how it could be rather than h
 ###How to extend;
 
 *Unit testing<br>
-*Integration testing
-*Api for mobile app integratino
+*Integration testing<br>
+*Api for mobile app integratin<bR
 *Identity for Api
 
