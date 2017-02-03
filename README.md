@@ -21,7 +21,7 @@ Solution template aims providing better approach / how it could be rather than h
   *Single resposibility (Especially on controller usage)<br>
   *Testing<br>
 
-###How to extend;
+###What to extend with to provide base for real life scenarios;
 
 *Unit testing<br>
 *Integration testing<br>
