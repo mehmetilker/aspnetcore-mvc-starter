@@ -11,9 +11,10 @@ Standart Visual Studio Mvc project template creates confusion especially on the 
 Solution template aims providing better approach / how it could be rather than how it should be, while making easy understanding and comprehension of developing loosly coupled solution.
 
 
-###Standart template creates confusion on the using of;
+### Standart template creates confusion on the using of;
 
   *Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
+  *Validation (both client and server)
   *Data Context<br>
   *Model and Entity concepts<br>
   *Tight coupled models (dependency on Identity Entities)<br>
@@ -21,10 +22,10 @@ Solution template aims providing better approach / how it could be rather than h
   *Single resposibility (Especially on controller usage)<br>
   *Testing<br>
 
-###What to extend with to provide base for real life scenarios;
+### What to extend with to provide base for real life scenarios;
 
 *Unit testing<br>
 *Integration testing<br>
-*Api for mobile app integratin<bR
+*Api for mobile app integratin<br>
 *Identity for Api
 
