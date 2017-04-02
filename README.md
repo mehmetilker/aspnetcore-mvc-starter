@@ -13,8 +13,8 @@ Solution template aims providing better approach / how it could be rather than h
 
 ### Standart template creates confusion on the using of;
 
-  *Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.
-  *Validation (both client and server)
+  *Membership/Identity library: Developed on Asp.net namespace and it looks inseperable from web project.<br>
+  *Validation (both client and server)<br>
   *Data Context<br>
   *Model and Entity concepts<br>
   *Tight coupled models (dependency on Identity Entities)<br>
