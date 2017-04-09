@@ -27,5 +27,8 @@ Solution template aims providing better approach / how it could be rather than h
 *Unit testing<br>
 *Integration testing<br>
 *Api for mobile app integratin<br>
-*Identity for Api
+*Identity for Api<br>
 
+<br>
+
+Alternative: https://github.com/dotnet/eShopOnWeb
